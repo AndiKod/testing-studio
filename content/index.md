@@ -1,4 +1,4 @@
-# Welcome to Nuxt Content Starter
+# Welcome to Nuxt Content
 
 This is the main page displaying Markdown located at [content/index.md](https://github.com/larbish/starter/blob/content/content/index.md).
 
