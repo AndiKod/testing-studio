@@ -1,0 +1,1 @@
+import{l as r,f as s,k as a,A as n,U as o,F as l}from"./D3Ivx5_b.js";const f={};function c(t,e){return a(),s(l,null,[e[0]||(e[0]=n(" ... ")),o(t.$slots,"default")],64)}const u=r(f,[["render",c]]);export{u as default};
